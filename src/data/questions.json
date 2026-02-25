@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Cuál es la función sintáctica de 'el libro' en la oración 'Juan lee el libro'?",
+    "options": ["Sujeto", "Complemento Directo", "Complemento Indirecto", "Atributo"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo de sintagma es 'muy rápidamente'?",
+    "options": ["Sintagma Nominal", "Sintagma Verbal", "Sintagma Adjetival", "Sintagma Adverbial"],
+    "answer": 3
+  },
+  {
+    "question": "En la oración 'El cielo es azul', ¿qué función cumple 'azul'?",
+    "options": ["Atributo", "Complemento Directo", "Complemento Predicativo", "Sujeto"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué categoría gramatical tiene la palabra 'porque'?",
+    "options": ["Preposición", "Conjunción", "Adverbio", "Pronombre"],
+    "answer": 1
+  },
+  {
+    "question": "En 'Entregó el paquete a María', ¿qué función cumple 'a María'?",
+    "options": ["Complemento Directo", "Complemento Indirecto", "Complemento de Régimen", "Sujeto"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo de sintagma es 'sobre las flores'?",
+    "options": ["Sintagma Nominal", "Sintagma Adverbial", "Sintagma Preposicional", "Sintagma Adjetival"],
+    "answer": 2
+  },
+  {
+    "question": "En 'El puente fue construido por los romanos', ¿qué función cumple 'por los romanos'?",
+    "options": ["Complemento Circunstancial", "Complemento Agente", "Complemento Indirecto", "Atributo"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el núcleo de un Sintagma Nominal (SN)?",
+    "options": ["Un verbo", "Un adjetivo", "Un sustantivo o pronombre", "Una preposición"],
+    "answer": 2
+  },
+  {
+    "question": "En 'Los niños llegaron cansados', ¿qué función cumple 'cansados'?",
+    "options": ["Atributo", "Complemento Directo", "Complemento Predicativo", "Complemento Circunstancial"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué categoría gramatical tiene la palabra '¡Ay!'?",
+    "options": ["Conjunción", "Interjección", "Adverbio", "Preposición"],
+    "answer": 1
+  },
+  {
+    "question": "En 'El éxito depende de tu esfuerzo', ¿qué función cumple 'de tu esfuerzo'?",
+    "options": ["Complemento Directo", "Complemento de Régimen (CRég)", "Complemento Indirecto", "Complemento Agente"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo de sintagma es 'lleno de agua'?",
+    "options": ["Sintagma Adjetival", "Sintagma Nominal", "Sintagma Preposicional", "Sintagma Verbal"],
+    "answer": 0
+  },
+  {
+    "question": "En 'Vuela rápidamente en el jardín', ¿qué función cumple 'en el jardín'?",
+    "options": ["Complemento Directo", "Complemento Indirecto", "Complemento Circunstancial", "Atributo"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué categoría gramatical tiene la palabra 'desde'?",
+    "options": ["Adverbio", "Conjunción", "Preposición", "Determinante"],
+    "answer": 2
+  },
+  {
+    "question": "¿Cuál es la función principal de un determinante?",
+    "options": ["Modificar al verbo", "Actualizar o precisar al sustantivo", "Unir oraciones", "Sustituir al pronombre"],
+    "answer": 1
+  },
+  {
+    "question": "En 'Nosotros iremos al cine', ¿qué categoría gramatical es 'Nosotros'?",
+    "options": ["Sustantivo", "Adjetivo", "Pronombre", "Determinante"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué sintagma constituye siempre el predicado de una oración?",
+    "options": ["Sintagma Nominal", "Sintagma Verbal", "Sintagma Preposicional", "Sintagma Adverbial"],
+    "answer": 1
+  },
+  {
+    "question": "En 'Ayer llovió mucho', ¿qué categoría gramatical es 'Ayer'?",
+    "options": ["Sustantivo", "Adjetivo", "Preposición", "Adverbio"],
+    "answer": 3
+  },
+  {
+    "question": "¿Qué función sintáctica acompaña a los verbos copulativos (ser, estar, parecer)?",
+    "options": ["Complemento Directo", "Atributo", "Complemento de Régimen", "Complemento Predicativo"],
+    "answer": 1
+  },
+  {
+    "question": "En 'La casa grande', ¿qué categoría gramatical es 'grande'?",
+    "options": ["Sustantivo", "Adjetivo", "Adverbio", "Determinante"],
+    "answer": 1
+  }
+]
