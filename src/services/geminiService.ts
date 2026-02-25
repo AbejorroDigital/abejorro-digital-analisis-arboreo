@@ -18,7 +18,7 @@ export async function analyzeSentence(sentence: string): Promise<SyntaxNode[]> {
   const ai = getAIClient();
   
   const response = await ai.models.generateContent({
-    model: "gemini-3.1-pro-preview",
+    model: "gemini-3-flash-preview",
     contents: `Actúa como un lingüista computacional experto. Analiza sintáctica y morfológicamente la siguiente oración: "${sentence}".
 Devuelve un array de nodos que representen el árbol sintáctico generativo.
 
